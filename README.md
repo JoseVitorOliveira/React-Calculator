@@ -8,4 +8,6 @@ Features:
 - Clear and delete functionality
 - Expression evaluation without eval
 
+![image](https://github.com/JoseVitorOliveira/React-Calculator/assets/55604227/e41062a1-c1a3-4ee7-9016-23ecbd3a814b)
+
 Feel free to explore and provide feedback!
